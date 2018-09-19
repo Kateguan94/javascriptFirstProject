@@ -1,6 +1,5 @@
-// var cookiesAccepted = confirm('We use tasty cookies. Do you accept them?');
-// if (cookiesAccepted)
-if (true)
+var cookiesAccepted = confirm('We use tasty cookies. Do you accept them?');
+if (cookiesAccepted)
     showPage();
 else
     showErrorPage();
